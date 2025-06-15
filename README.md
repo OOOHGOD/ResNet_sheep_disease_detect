@@ -1,0 +1,2 @@
+# ResNet_sheep_disease_detect
+基于ResNet的病羊图片分类的课程设计
